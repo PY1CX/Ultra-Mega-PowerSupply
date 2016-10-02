@@ -12,3 +12,10 @@ So I started searching around the internet for a programmed open source Power Su
 #Nice features?
 Programmable Shutdown Current	
 Programmable Voltage and Current Curves
+
+Thanks:
+Renato Tavares
+Túlio Pires (Need Engenharia)
+Alexandre "Pacman" Pereira
+Felipe Neves
+
