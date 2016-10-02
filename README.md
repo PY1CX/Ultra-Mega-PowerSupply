@@ -14,8 +14,8 @@ Programmable Shutdown Current
 Programmable Voltage and Current Curves
 
 Thanks:
-Renato Tavares
-Túlio Pires (Need Engenharia)
-Alexandre "Pacman" Pereira
+Renato Tavares;
+Túlio Pires (Need Engenharia);
+Alexandre "Pacman" Pereira;
 Felipe Neves
 
